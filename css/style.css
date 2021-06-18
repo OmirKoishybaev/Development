@@ -43,7 +43,7 @@
 
 /* Fixed bg */
 .fixed-background {
-    background-image: url(/img/matrix.jpg);
+    background-image: url(img/matrix.jpg);
     height: 400px;
     background-size: cover;
     background-attachment: fixed;
