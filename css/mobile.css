@@ -1,0 +1,34 @@
+@media (max-width: 500px) {
+    .landing button {
+        margin: 10px 0;
+    }
+
+
+
+.brand .row .brands {
+  margin-left: 27%;
+}
+
+.lang .container .row  {
+    margin-left: 7%;
+}
+
+.lang .container .row .card {
+    margin-bottom: 10px;
+}
+
+.sub {
+    height: 300px;
+}
+.sub .form-control {
+    margin-right: 20%;
+    margin-bottom: 15px;
+
+} 
+
+.sub .btnsub button {
+    margin-left: 30%;
+
+}
+
+}

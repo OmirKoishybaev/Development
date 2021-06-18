@@ -1,0 +1,22 @@
+.brand-one {
+    border: 1px solid black;
+    width: 160px;
+    height: 100px;
+    display: flex;
+    padding: 35px;
+    margin: 5px;
+    transition: 0.2s ease;
+    
+}
+
+.brand-one:hover {
+    transform: scale(1.05);
+    box-shadow: var(--box-shadow);    
+}
+
+.lang .card {
+    width: 90%;
+    height: 300px;
+    padding: 10px;
+    border: 2px solid;
+}

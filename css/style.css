@@ -1,0 +1,76 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    /* scrivaet lishnie detali elementa */
+    /* overflow: hidden; */
+}
+
+/* Top Bar styling */
+.top-bar {
+    background-color: lightgray;
+    height: 2.8rem;
+    padding-left: .5rem 0;
+}
+
+.top-bar p {
+    padding-top: .5rem;
+}
+
+
+.top-bar a{
+    color: rgb(26, 25, 25);
+    text-decoration: none;
+    size: 1.1rem;
+    
+}
+
+/* Navigation */
+.navbar {
+    font: 1.15rem;
+    letter-spacing: 0.1rem;
+    box-shadow: 0 .5rem .5re black;
+}
+
+.nav-item {
+    padding: 0.5rem;
+}
+
+.carousel {
+    box-shadow: 0 1rem 1rem black;
+
+}
+
+/* Fixed bg */
+.fixed-background {
+    background-image: url(/img/matrix.jpg);
+    height: 400px;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+/* footer */
+.footer {
+    padding: 1rem 2rem;
+}
+
+.social {
+    list-style: none;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+}
+
+.social li{
+    margin: 0 1rem;
+    font-size: 1.5rem;
+}
+.social li i{
+   color: white;
+}
+.social li i:hover{
+    
+    color: white;
+}
+
